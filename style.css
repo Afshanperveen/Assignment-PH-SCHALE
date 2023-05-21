@@ -1,0 +1,73 @@
+body
+{
+    background-color: silver;
+    color: white;
+    padding: 20px;
+    font-family: Arial, sans-serif,Verdana;
+}
+ h1{
+    background-color: #ffffff;
+    background-color: (0,100%,100%,0.5);
+    color: indianred;
+    padding: inherit;
+text-shadow: 2px,2px,5px black;
+text-align: center;
+font-size: 60;
+border-radius: 40px;
+border-style: groove;
+border-color: slategrey whitesmoke;
+border-width: 20px;
+}
+p{
+padding: 5px;
+margin: 0;
+}
+p.Zero{
+background-color:
+rgb(238,62,128) ;
+}
+p.One{
+    background-color:
+    rgb(242,90,135) ;
+}
+ p.Two{
+ background-color:
+ rgb(243,105,140) ;
+ }
+p.Three{
+ background-color:rgb(244,110,145)
+}
+p.Four{
+background-color:rgb(245,115,150) ;
+}
+ p.Five{
+background-color:rgb(246,120,155) ;
+}
+p.Six{
+background-color:rgb(247,125,160) ;
+}
+p.Seven{
+background-color:rgb(0,230,100) ;
+}
+p.Eight{
+background-color:rgb(177, 219, 242) ;
+}
+p.Nine{
+background-color:rgb(77, 170, 216) ;
+}
+p.Ten{
+background-color:rgb(41, 163, 239) ;
+}
+p.Eleven{
+background-color:rgb(63, 119, 240) ;
+}
+p.Twelve{
+background-color:rgb(14, 73, 161);
+}
+p.Thirteen{
+background-color:rgb(48, 79, 235);
+}                                                                                                                       
+p.Fourteen{
+background-color:rgb(9, 9, 230);
+}   
+    
